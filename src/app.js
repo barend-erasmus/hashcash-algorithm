@@ -5,9 +5,8 @@ const startTime = new Date().getTime();
 
 const data = 'hello world';
 
-
 const version = '1';
-const bits = 3;
+const bits = 5;
 const date = moment().format('YYMMDD');
 const resource = data;
 const extension = '';
