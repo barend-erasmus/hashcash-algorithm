@@ -16,9 +16,9 @@ The header consists of:
 * Random characters, encoded in base-64 format.
 * Counter, encoded in base-64 format.
 
-In this example it took 0.913 seconds to compute a hash of `0000044c7cc6f2129f2635e44ca265b597dbffff`
+In this example, it took 0.913 seconds to compute a hash of `0000044c7cc6f2129f2635e44ca265b597dbffff`
 
-## How it works?
+## How does it work?
 
 ```javascript
 
